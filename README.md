@@ -1,4 +1,4 @@
-# ⚡️ Chris Norton JR 
+# ⚡️ Chris Norton Jr
   **`Digital Strategist - Developer | Engineer | Analyst`**
 
 I transform data into engaging experiences. With expertise in web development, email automation, content strategy, and data analysis, I create impactful online solutions. Let’s build something amazing together.
@@ -26,7 +26,10 @@ I transform data into engaging experiences. With expertise in web development, e
 
 <!-- <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/> -->
 <!-- <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /> -->
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+
+<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" />
+          
+<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
 
 
 <img align="left" alt="Csharp" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
@@ -65,7 +68,7 @@ I transform data into engaging experiences. With expertise in web development, e
 <div align="center" margin="100px 0 0 0">
 
 <h2 align="center">Stats</h2>
-<h3 style="color:red">These stats are only for public repos only. Private stats on projects for previous employers and clients are ommitted.</h3>
+<h4 style="color:red;">These stats are only for public repos only. Private stats on projects for previous employers and clients are ommitted.</h4>
 
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nortoncj&show_icons=true&locale=en&layout=compact" alt="nortoncj" /></p>
 
