@@ -1,5 +1,6 @@
-## Hi there 👋
+**`Digital Strategist - Developer | Engineer | Analyst`** 
 
+I’m a digital strategist who transforms data into engaging experiences. With expertise in web development, email automation, content strategy, and data analysis, I create impactful online solutions. Let’s build something amazing together. "[ChrisNorton][youtube]"
 <!--
 **nortoncj/nortoncj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
