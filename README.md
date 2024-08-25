@@ -1,6 +1,11 @@
 **`Digital Strategist - Developer | Engineer | Analyst`** 
 
-I’m a digital strategist who transforms data into engaging experiences. With expertise in web development, email automation, content strategy, and data analysis, I create impactful online solutions. Let’s build something amazing together. "[ChrisNorton][youtube]"
+I’m a digital strategist who transforms data into engaging experiences. With expertise in web development, email automation, content strategy, and data analysis, I create impactful online solutions. Let’s build something amazing together.
+
+<p align="center">
+    <a href="https://www.youtube.com/@chrisnortonjr?sub_confirmation=1" target="_blank">
+    <img alt="YouTube" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE60328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a>
+</p>
 <!--
 **nortoncj/nortoncj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
