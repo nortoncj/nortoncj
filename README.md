@@ -20,7 +20,7 @@ I transform data into engaging experiences. With expertise in web development, e
 
 <hr>
 <p align="center">
-  <a href="https://www.youtube.com/@chrisnortonjr"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  <a href="https://www.youtube.com/@chrisnortonjr?sub_confirmation=1"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/chrisnortonjr/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
