@@ -1,6 +1,6 @@
-<div id="" align="center">
+<a href="https://www.chrisnortonjr.com" id="" align="center">
   <img src="https://github.com/nortoncj/assets/blob/main/Brand%20Banner%20(3).png?raw=true" width="100%"/>
-</div>
+</a>
 
 <hr />
 
