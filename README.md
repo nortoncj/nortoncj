@@ -1,8 +1,9 @@
 <div id="" align="center">
   <img src="https://github.com/nortoncj/assets/blob/main/Brand%20Banner%20(3).png?raw=true" width="100%"/>
 </div>
-# ⚡️ Chris Norton Jr
-  **`Digital Strategist - Developer | Engineer | Analyst`**
+# ⚡️ Chris Norton Jr #
+
+**`Digital Strategist - Developer | Engineer | Analyst`**
 
 I transform data into engaging experiences. With expertise in web development, email automation, content strategy, and data analysis, I create impactful online solutions. Let’s build something amazing together.
 
