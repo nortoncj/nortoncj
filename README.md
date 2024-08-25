@@ -1,3 +1,6 @@
+<div id="" align="center">
+  <img src="https://github.com/nortoncj/assets/blob/main/Brand%20Banner%20(3).png?raw=true" width="100%"/>
+</div>
 # ⚡️ Chris Norton Jr
   **`Digital Strategist - Developer | Engineer | Analyst`**
 
