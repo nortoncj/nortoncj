@@ -18,7 +18,7 @@ I transform data into engaging experiences. With expertise in web development, e
 <h2 align="center">Contact Me</h2>
 <p align="center">
 	&nbsp&nbsp&nbsp
-	<a href="https://twitter.com/codemanchris" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" alt="chrisnortonjr" height="30" width="40" /></a>&nbsp&nbsp&nbsp
+	<a href="https://twitter.com/thewebtechninja" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" alt="chrisnortonjr" height="30" width="40" /></a>&nbsp&nbsp&nbsp
 <a href="https://linkedin.com/in/chrisnortonjr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chrisnortonjr" height="30" width="40" /></a>&nbsp&nbsp&nbsp
 <a href="https://instagram.com/chrisnortonjr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chrisnortonjr" height="30" width="40" /></a>&nbsp&nbsp&nbsp
 <a href="https://www.facebook.com/chris.norton.37051" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg" alt="chrisnortonjr" height="30" width="40" /></a>&nbsp&nbsp&nbsp
