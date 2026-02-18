@@ -81,9 +81,9 @@ I transform data into engaging experiences. With expertise in web development, e
 <h2 align="center">Stats</h2>
 <h4 style="color:red;">These stats are only for public repos only. Private stats on projects for previous employers and clients are ommitted.</h4>
 
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nortoncj&show_icons=true&locale=en&layout=compact" alt="nortoncj" /></p>
+<!--  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nortoncj&show_icons=true&locale=en&layout=compact" alt="nortoncj" /></p>
 
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nortoncj&show_icons=true&locale=en" alt="nortoncj" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nortoncj&show_icons=true&locale=en" alt="nortoncj" /></p> -->
 
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nortoncj&" alt="nortoncj" /></p>
 </div>
