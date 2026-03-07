@@ -75,7 +75,7 @@ I transform data into engaging experiences. With expertise in web development, e
 
 ### 📊 Stats
 <a style ="align:center " src="https://github.com/anuraghazra/github-readme-stats">
-   <img alt="Top Languages Card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME">
+   <img alt="Top Languages Card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nortoncj">
 </a>
 
 <!-- STATS -->
