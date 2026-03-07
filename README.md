@@ -74,7 +74,7 @@ I transform data into engaging experiences. With expertise in web development, e
 
 
 ### 📊 Stats
-<div align="center">
+<!-- <div align="center">
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
@@ -83,7 +83,7 @@ I transform data into engaging experiences. With expertise in web development, e
     />
   </a>
 
-</div>
+</div> -->
 
 
 <!-- STATS -->
