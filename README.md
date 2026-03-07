@@ -67,13 +67,16 @@ I transform data into engaging experiences. With expertise in web development, e
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
 <!-- <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /> -->
-<!-- <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /> -->
+ <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 </div>
 <br />
 
-#
+
 
 ### 📊 Stats
+<a style ="align:center " src="https://github.com/anuraghazra/github-readme-stats">
+   <img alt="Top Languages Card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME">
+</a>
 
 <!-- STATS -->
 <div align="center" margin="100px 0 0 0">
