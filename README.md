@@ -1,21 +1,47 @@
-<a href="https://www.chrisnortonjr.com" id="" align="center">
-  <img src="https://github.com/nortoncj/assets/blob/main/Brand%20Banner%20(3).png?raw=true" width="100%"/>
-</a>
+# ⚡️ Chris Norton Jr
 
-<hr />
+**Engineer · Developer**
 
-# ⚡️ Chris Norton Jr #
+I build systems that scale and deliver measurable outcomes. I turn complex engineering problems into elegant, production-ready solutions that non-technical stakeholders can understand and trust.
 
-**`Digital Strategist - Developer | Engineer`**
+---
 
-I transform data into engaging experiences. With expertise in web development, email automation, content strategy, and data analysis, I create impactful online solutions. Let’s build something amazing together.
+## Who I am
 
-<!-- Social icons section -->
+**Christopher Norton** — multi-disciplinary **Engineer** focused on scalable software, intelligent automation, and embedded systems. B.S. in Engineering. I design and ship production-ready systems across cloud, web, and hardware domains.
 
+---
 
-<!-- SOCIALS -->
+## What I do
 
-<h2 align="center">Contact Me</h2>
+- **Build & ship** full-stack web applications and automation pipelines that move product and revenue metrics.
+- **Design & operate** cloud infrastructure, CI/CD, and observability for reliable production systems.
+- **Implement** email automation and martech integrations that improve deliverability and conversion.
+- **Prototype** embedded systems and IoT solutions from concept to deployed firmware.
+
+**Outcome focus for non-technical readers:** I deliver reliable systems that reduce manual work, improve customer experience, and scale with your business.
+
+**Technical summary for engineers:** architecture design, distributed systems on AWS, containerization with Docker, orchestration with Kubernetes, event-driven automation (n8n, Zapier), and embedded development with ESP32/MCUs.
+
+---
+
+## Tools and Tech
+
+**Languages & Frameworks:** Python; JavaScript; TypeScript; React; Next.js; PHP; Node.js  
+**Cloud & Infra:** AWS; Docker; Kubernetes; Terraform; CI/CD  
+**Martech & Automation:** HubSpot; Mailchimp; Klaviyo; Zapier; Make; SES; Salesforce; n8n  
+**Other:** Linux; SQL; Git; Figma; Embedded (ESP32, IoT)
+
+---
+
+## Selected Projects
+
+See portfolio and case studies at **https://chrisnortonjr.com** — highlights include web platforms, automation pipelines, and an IoT home energy monitoring project.
+
+---
+
+## Contact
+
 <table align="center" border="0" cellpadding="6" cellspacing="0">
   <tr>
     <td><a href="https://twitter.com/thewebtechninja" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" alt="Twitter" height="30" width="40" /></a></td>
@@ -26,80 +52,6 @@ I transform data into engaging experiences. With expertise in web development, e
   </tr>
 </table>
 
-
-
-
-<hr>
-
-
-<br/>
-<!--
-**nortoncj/nortoncj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ---
 
-### 🧰 Languages and Tools
-
-<!-- <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/> -->
-<!-- <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /> -->
-<div style="display:flex; align:center; align-items:center;">
-<img align="left" alt="Ruby" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" />
-          
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-
-
-<img align="left" alt="Csharp" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-
-
-<img align="left" alt="DotNet" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
-          
-          
-          
-<!-- <img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/js/angularjs-plain.svg" /> -->
- <img align="left" alt="PHP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-
-<img align="left" alt="Laravel" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
-<img align='left' alt="Vue" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
-          
-          
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-<!-- <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /> -->
- <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-</div>
-<br />
-
-
-
-### 📊 Stats
-<!-- <div align="center">
-
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      alt="Top Languages"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=nortoncj&cache_seconds=60"
-    />
-  </a>
-
-</div> -->
-
-
-<!-- STATS -->
-<div align="center" margin="100px 0 0 0">
-
-<h2 align="center">Stats</h2>
-<h4 style="color:red;">These stats are only for public repos only. Private stats on projects for previous employers and clients are ommitted.</h4>
-
-<!--  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nortoncj&show_icons=true&locale=en&layout=compact" alt="nortoncj" /></p>
-
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nortoncj&show_icons=true&locale=en" alt="nortoncj" /></p> -->
-
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nortoncj&" alt="nortoncj" /></p>
-</div>
-<br>
+**More details, case studies, and contact form:** https://chrisnortonjr.com
