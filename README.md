@@ -6,7 +6,7 @@
 
 # ⚡️ Chris Norton Jr #
 
-**`Digital Strategist - Developer | Engineer | Analyst`**
+**`Digital Strategist - Developer | Engineer`**
 
 I transform data into engaging experiences. With expertise in web development, email automation, content strategy, and data analysis, I create impactful online solutions. Let’s build something amazing together.
 
@@ -16,14 +16,16 @@ I transform data into engaging experiences. With expertise in web development, e
 <!-- SOCIALS -->
 
 <h2 align="center">Contact Me</h2>
-<p align="center" style="display:flex">
-	&nbsp&nbsp&nbsp
-	<a href="https://twitter.com/thewebtechninja" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" alt="chrisnortonjr" height="30" width="40" /></a>&nbsp&nbsp&nbsp
-<a href="https://linkedin.com/in/chrisnortonjr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chrisnortonjr" height="30" width="40" /></a>&nbsp&nbsp&nbsp
-<a href="https://instagram.com/chrisnortonjr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chrisnortonjr" height="30" width="40" /></a>&nbsp&nbsp&nbsp
-<a href="https://www.facebook.com/chris.norton.37051" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg" alt="chrisnortonjr" height="30" width="40" /></a>&nbsp&nbsp&nbsp
-<a href="https://www.youtube.com/@chrisnortonjr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="chrisnortonjr" height="30" width="40" /></a>
-</p>
+<table align="center">
+  <tr>
+    <td><a href="https://twitter.com/thewebtechninja" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" alt="Twitter" height="30" width="40" /></a></td>
+    <td><a href="https://linkedin.com/in/chrisnortonjr" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a></td>
+    <td><a href="https://instagram.com/chrisnortonjr" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a></td>
+    <td><a href="https://www.facebook.com/chris.norton.37051" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg" alt="Facebook" height="30" width="40" /></a></td>
+    <td><a href="https://www.youtube.com/@chrisnortonjr" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a></td>
+  </tr>
+</table>
+
 
 <hr>
 
