@@ -16,7 +16,7 @@ I transform data into engaging experiences. With expertise in web development, e
 <!-- SOCIALS -->
 
 <h2 align="center">Contact Me</h2>
-<table align="center">
+<table border="none" align="center">
   <tr>
     <td><a href="https://twitter.com/thewebtechninja" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" alt="Twitter" height="30" width="40" /></a></td>
     <td><a href="https://linkedin.com/in/chrisnortonjr" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a></td>
